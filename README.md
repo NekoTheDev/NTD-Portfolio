@@ -1,4 +1,9 @@
-<h1 align="center">🌐 NTD Portfolio</h1>
+<h1 align="center">
+  <img src="https://i.pinimg.com/736x/d0/0d/33/d00d33afbe4c3af1b3bd2ab0086e3a71.jpg" alt="Logo" width="30" height="30">
+  NTD Portfolio
+</h1>
+
+
 
 <p align="center">
   🚀 A clean and minimal <b>personal portfolio website</b> — built with 
